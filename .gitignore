@@ -1,0 +1,6 @@
+*.los
+*.vmap
+*.addon
+*.bin
+*.vmat
+*.tga
